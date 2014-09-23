@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: CB Contact Form
-Plugin URI: https://github.com/corey-benson/wp-contact-form
+Plugin URI: https://github.com/corey-benson/cb-contact-form
 Description: A very simple plugin that generates a set contact form for users to add to their theme
 Author: Corey Benson
 Version: 1.0
