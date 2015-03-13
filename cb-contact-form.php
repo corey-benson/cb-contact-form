@@ -62,7 +62,7 @@ function cb_build_form($sendTo, $subject) {
 	
 	$form = '<div id="contact-form" class="contact-form">
 						<form name="'. CB_SLUG .'" method="POST">
-		          <h1>Contact Boisht</h1>
+		          <h1>Contact Form</h1>
 		          <div>
 		            <input type="text" name="cb-name" id="name" class="name" value="" placeholder="Name">
 		          </div>
